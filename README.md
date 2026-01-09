@@ -79,11 +79,11 @@ The analysis follows a structured data science workflow:
 - Spatial clustering reveals distinct crime hotspots within Colchester
 
 ---
-## Author
+Author:
+  Name: Sasikumar Venkatesan
+  Programme: MSc Data Science
+  Institution: University of Essex
 
--**Sasikumar Venkatesan
--**MSc Data Science
--**University of Essex
 
 ---
 
