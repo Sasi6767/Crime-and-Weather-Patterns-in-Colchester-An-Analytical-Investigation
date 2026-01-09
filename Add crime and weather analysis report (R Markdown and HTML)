@@ -1,6 +1,6 @@
 ---
 title: 'Crime and Weather Patterns in Colchester: An Analytical Investigation'
-author: "MA304_2411729"
+author: "Sasikumar Venkatesan"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
