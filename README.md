@@ -81,9 +81,9 @@ The analysis follows a structured data science workflow:
 ---
 ## Author
 
-**Sasikumar Venkatesan
-**MSc Data Science
-**University of Essex
+-**Sasikumar Venkatesan
+-**MSc Data Science
+-**University of Essex
 
 ---
 
